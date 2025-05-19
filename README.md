@@ -2,6 +2,8 @@
 
 # bookmei-playwright-automation
 
+![Image](https://github.com/user-attachments/assets/6189ffdd-041b-4151-ba3f-83b86bbbf998)
+
 # Overview
 
 This project contains automated end-to-end tests for BookMei, a salon and spa management platform. The tests cover various functionalities including user authentication, calendar management, team management, service operations, and review systems.
