@@ -1,9 +1,11 @@
-<!-- Uploading "Screenshot (2173).png"... -->
-📋 Overview
-This project contains automated end-to-end tests for BookMei, a salon and spa management platform. The tests cover various functionalities including user authentication, calendar management, team management, service operations, and review systems.
-🚀 Features
+-- Uploading "Screenshot (2173).png"... 
 
-Login & Authentication - Automated login testing with credential verification
+#📋 Overview
+This project contains automated end-to-end tests for BookMei, a salon and spa management platform. The tests cover various functionalities including user authentication, calendar management, team management, service operations, and review systems.
+#🚀 Features
+
+Login & Authentication 
+Automated login testing with credential verification
 Dashboard Testing - Validation of key metrics, navigation, and UI elements
 Calendar Management - Testing of calendar views, scheduling, and date interactions
 Team Management - Employee profile checks, schedule updates, and role management
@@ -13,7 +15,7 @@ Cross-browser Testing - Support for Chromium, Firefox, and WebKit
 Visual Testing - Screenshot capture for visual regression detection
 Detailed Reporting - HTML reports with test results and debugging information
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Testing Framework: Playwright
 Language: JavaScript (Node.js)
@@ -21,7 +23,7 @@ Test Runner: Playwright Test
 CI/CD: GitHub Actions
 Reporting: HTML Reports, Screenshots, Video Recording
 
-📁 Project Structure
+#📁 Project Structure
 bookmei-tests/
 ├── tests/
 │   ├── check-bookmei.test.js      # Main dashboard and login tests
