@@ -1,6 +1,6 @@
 -- Uploading "Screenshot (2173).png"... 
 
-#📋 Overview
+##📋 Overview
 This project contains automated end-to-end tests for BookMei, a salon and spa management platform. The tests cover various functionalities including user authentication, calendar management, team management, service operations, and review systems.
 #🚀 Features
 
