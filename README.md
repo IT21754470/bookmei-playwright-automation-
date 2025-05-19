@@ -1,8 +1,11 @@
--- Uploading "Screenshot (2173).png"... 
 
-📋# Overview
+
+#bookmei-playwright-automation
+
+📋#Overview
+
 This project contains automated end-to-end tests for BookMei, a salon and spa management platform. The tests cover various functionalities including user authentication, calendar management, team management, service operations, and review systems.
-#🚀 Features
+🚀 #Features
 
 Login & Authentication 
 Automated login testing with credential verification
@@ -15,7 +18,7 @@ Cross-browser Testing - Support for Chromium, Firefox, and WebKit
 Visual Testing - Screenshot capture for visual regression detection
 Detailed Reporting - HTML reports with test results and debugging information
 
-#🛠️ Tech Stack
+🛠️ #Tech Stack
 
 Testing Framework: Playwright
 Language: JavaScript (Node.js)
@@ -23,7 +26,7 @@ Test Runner: Playwright Test
 CI/CD: GitHub Actions
 Reporting: HTML Reports, Screenshots, Video Recording
 
-#📁 Project Structure
+📁 #Project Structure
 bookmei-tests/
 ├── tests/
 │   ├── check-bookmei.test.js      # Main dashboard and login tests
