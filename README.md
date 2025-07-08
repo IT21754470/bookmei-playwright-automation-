@@ -2,7 +2,6 @@
 
 # bookmei-playwright-automation
 
-![Image](https://github.com/user-attachments/assets/6189ffdd-041b-4151-ba3f-83b86bbbf998)
 
 # Overview
 
